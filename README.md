@@ -4,7 +4,7 @@ An AI-powered password brute-force tool that leverages Python and TensorFlow’s
 
 > **Educational Purpose:**  
 > This project demonstrates how machine learning can be applied to understand password patterns and improve cybersecurity practices. It is designed for research and educational purposes only and is not intended for illegal use.
-
+The folder is the updated code with the training model. The files you see listed are usingf a preset set of passwords. 
 ---
 
 ## Features
